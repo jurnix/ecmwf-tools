@@ -5,7 +5,7 @@ from setuptools import Extension
 
 
 setup(
-  name = 'ic3libs',
+  name = 'ic3lib',
   version = '0.1',
   author = 'Albert Jornet',
   author_email = 'albert.jornet@ic3.cat',
