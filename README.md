@@ -1,4 +1,4 @@
-ic3tools
-========
+ecmwf
+=====
 
-This are common tools developped in IC3
+This tools are created in order to get data from ecmwf servers.
