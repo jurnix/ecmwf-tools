@@ -6,12 +6,8 @@ This script is the main file to control jobs and run commands to move data. This
 
 check jobs from ecmwf
 if finished -> check remote outputs (8 expected)
-                -> report if failed
             -> download data 
-                -> to NAS and ithaca
-            -> delete job from list (ecaccess-job-delete)
 
-check ithaca jobs
 """
 
 import os
